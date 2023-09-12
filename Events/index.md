@@ -7,7 +7,7 @@ Upcoming Events
 
 #### July 29-August 2, 2024, Bremen, Germany
 
--    XLIV Dynamics Days 2024: , Bremen, Germany
+-    XLIV Dynamics Days 2024: Bremen, Germany
 -    Local organizers: Marcel Oliver, KU Eichstätt-Ingolstadt, Germany; Anke Pohl, University of Bremen, Germany
 
 Past Events

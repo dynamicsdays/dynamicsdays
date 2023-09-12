@@ -9,3 +9,8 @@ Dynamics Days Europe
 
 There are also [US and Asia-Pacific Dynamics Days conferences](https://www.dynamicsdays.info/).  
 
+## Upcoming event
+
+-    July 29-August 2, 2024, XLIV DYNAMICS DAYS Bremen, Germany
+-    Local organizers: Marcel Oliver, KU Eichstätt-Ingolstadt, Germany; Anke Pohl, University of Bremen, Germany
+
