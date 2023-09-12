@@ -5,10 +5,11 @@ pagetitle: Events
 Upcoming Events
 ===============
 
-#### July 29-August 2, 2024, Bremen, Germany
+## [Dynamics Days Bremen](https://dynamicsdays.eu/bremen2024/), July 29-August 2, 2024
 
--    XLIV Dynamics Days 2024: Bremen, Germany
+-    On the campus of [Constructor University](https://constructor.university/) Bremen
 -    Local organizers: Marcel Oliver, KU Eichstätt-Ingolstadt, Germany; Anke Pohl, University of Bremen, Germany
+
 
 Past Events
 ===========
