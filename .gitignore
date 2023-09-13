@@ -4,6 +4,8 @@
 #
 # Some additions and deletions by M.O.
 
+.public
+
 # Backup and autosave files:
 *~
 *#
