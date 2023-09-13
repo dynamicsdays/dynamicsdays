@@ -15,7 +15,7 @@ Past Events
 ===========
 
 -    2023, September 3-8, [XLIII DYNAMICS DAYS Napoli](https://sites.google.com/view/dynamicsdayseurope2023), Italy
--    2022, August 22-26, XLII DYNAMICS DAYS Aberdeen Scotland 
+-    2022, August 22-26, [XLII DYNAMICS DAYS Aberdeen](https://web.archive.org/web/20221102105856/https://www.abdn.ac.uk/events/conferences/dynamics-days-2022.php), Scotland 
 -    2021, August 23-27, [XLI DYNAMICS DAYS Nice](https://dynamicsdays2021.univ-cotedazur.fr/), France (hybrid) 
 -    2020, August 24-28, [XL DYNAMICS DAYS Nice](https://www.danieleavitabile.com/ddd2020/), France (online)
 -    2019, September 2-6, [XXXIX DYNAMICS DAYS Rostock](https://dyndays.uni-rostock.de/), Germany 
