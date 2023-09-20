@@ -16,7 +16,7 @@ Dynamics Days Europe
 
 -    July 29-August 2, 2024
 -    On the campus of [Constructor University](https://constructor.university/), Bremen
--    Local organizers: Marcel Oliver, KU Eichstätt-Ingolstadt, Germany; Anke Pohl, University of Bremen, Germany
+-    [Local organizing team](https://dynamicsdays.eu/bremen2024/Organizers/)
 
 ## Mailing list
 
