@@ -23,23 +23,23 @@ Past Events
 -    2017, June 5-9, [XXXVII DYNAMICS DAYS Szeged](https://akcongress.com/ddays/), Hungary
 -    2016, June 6-10, [XXXVI DYNAMICS DAYS Corfu](http://dynamicsdays2016.ntua.gr/), Greece 
 -    2015, September 6-10, [XXXV DYNAMICS DAYS Exeter](https://emps.exeter.ac.uk/media/universityofexeter/emps/research/dynamicsdays/ddays_exeter_abstracts_2015c.pdf), UK
--    2014, September 8-12, XXXIV DYNAMICS DAYS Bayreuth, Germany
+-    2014, September 8-12, [XXXIV DYNAMICS DAYS Bayreuth](https://web.archive.org/web/20190812114334/http://dynamicsdays2014.uni-bayreuth.de/en/index.html), Germany
 -    2013, June 3-7, [XXXIII DYNAMICS DAYS Madrid](http://www.complexity.es/dd2013/), Spain
--    2012, September 2-7, XXXII DYNAMICS DAYS Gothenburg, Sweden
+-    2012, September 2-7, [XXXII DYNAMICS DAYS Gothenburg](https://web.archive.org/web/20120212101212/http://www.dynamics-days-europe-2012.org/), Sweden
 -    2011, September 12-16, [XXXI DYNAMICS DAYS Oldenburg](http://www.dynamics-days-2011.uni-oldenburg.de/), Germany 
--    2010, September 6-10, XXX DYNAMICS DAYS Bristol, UK
--    2009, Aug 31-Sept 4, XXIX DYNAMICS DAYS Göttingen, Germany
--    2008, August 25-29, XXVIII DYNAMICS DAYS Delft, The Netherlands
--    2007, July 9-13, XXVII DYNAMICS DAYS Loughborough, UK
+-    2010, September 6-10, [XXX DYNAMICS DAYS Bristol](https://web.archive.org/web/20100429071631/http://www.enm.bris.ac.uk:80/anm/ddays10/index.html), UK
+-    2009, Aug 31-Sept 4, [XXIX DYNAMICS DAYS Göttingen](https://www.ds.mpg.de/conferences/dd09), Germany
+-    2008, August 25-29, [XXVIII DYNAMICS DAYS Delft](https://web.archive.org/web/20071205164809/http://www.dd2008.ewi.tudelft.nl/), The Netherlands
+-    2007, July 9-13, [XXVII DYNAMICS DAYS Loughborough](https://web.archive.org/web/20061107085733/http://www.lboro.ac.uk:80/departments/ma/ddays/), UK
 -    2006, Sept 25-29, [XXVI DYNAMICS DAYS Crete](http://ddays06.physics.uoc.gr/), Greece 
 -    2005, July 25-28, [XXV DYNAMICS DAYS Berlin](https://www1.itp.tu-berlin.de/schoell/ddays05/), Germany
--    2004, Sept 13-17, XXIV DYNAMICS DAYS Palma de Mallorca, Spain
--    2003, Sept 24-27, XXIII DYNAMICS DAYS Palma de Mallorca, Spain
--    2002, July 15-19, XXII DYNAMICS DAYS Heidelberg, Germany
+-    2004, Sept 13-17, [XXIV DYNAMICS DAYS Palma de Mallorca](https://web.archive.org/web/20040902083347/http://www.imedea.uib.es/~ddays/index.html), Spain
+-    2003, Sept 24-27, [XXIII DYNAMICS DAYS Palma de Mallorca](https://imedea.uib-csic.es/~ituval/CONFERENCES/ddays/ddays2003.html), Spain
+-    2002, July 15-19, [XXII DYNAMICS DAYS Heidelberg](https://web.archive.org/web/20021026162554/http://www.iwr.uni-heidelberg.de:80/dd02/start.html), Germany
 -    2001, June 5-8, [XXI DYNAMICS DAYS Dresden](https://www.pks.mpg.de/~ddd2001/main.html), Germany
--    2000, June 25-29, XX DYNAMICS DAYS Guildford, UK
--    1999, June 20-23, XIX DYNAMICS DAYS Como, Italy
--    1998, June 28-July 1, XVIII DYNAMICS DAYS Edinburgh
+-    2000, June 25-29, [XX DYNAMICS DAYS Guildford](https://web.archive.org/web/20000818111717/http://www.maths.surrey.ac.uk/announce/DDAYS00/), UK
+-    1999, June 20-23, [XIX DYNAMICS DAYS Como](https://web.archive.org/web/20010611051452/http://www.unico.it/~dd99/), Italy
+-    1998, June 28-July 1, [XVIII DYNAMICS DAYS Edinburgh](https://web.archive.org/web/19990220000812/http://www.ma.hw.ac.uk:80/icms/1998/dynamics98/dynamics-time.html), Scotland
 -    1997 (no DYNAMICS DAYS) (not at Copenhagen)
 -    1996, July 10-13, XVII DYNAMICS DAYS ENS Lyon
 -    1995, June 28-July 1, XVI DYNAMICS DAYS ENS Lyon
